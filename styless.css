@@ -1,0 +1,159 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 80px;
+}
+
+body {
+  margin: 0;
+  text-align:  center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin : 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.mouse {
+  position: absolute;
+  right: 430px;
+  top: 105px;
+}
+
+.keyboard {
+    position:absolute;
+    left: 430px;
+    top: 210px;
+}
+
+.subheading {
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: none;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+h3 {
+ font-family: 'Montserrat', sans-serif;
+ color: #11999E;
+}
+
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.skills_row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.coding_image{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.goodies{
+  width: 95%;
+}
+.goodiess{
+  width: 70%;
+}
+.kickstart_codejam{
+  width: 95%;
+}
+
+
+
+.presentation_img{
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact_message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.7rem;
+  padding: 20px 0;
+}
+
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
